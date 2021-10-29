@@ -1,0 +1,20 @@
+SYSTEM = Al2O3-m211
+ISMEAR = 1
+SIGMA = 0.1
+LREAL = Auto
+ALGO = Fast
+IBRION = 1
+ENCUT = 400
+PREC = accurate
+ISPIN = 2
+ISIF = 2
+NSW = 600
+LPLANE = .TRUE.
+NPAR = 4
+NSIM = 4
+LORBIT = 11
+LASPH = .TRUE.
+
+!Convergence crieria
+EDIFF = 0.0001
+EDIFFG = -0.02
