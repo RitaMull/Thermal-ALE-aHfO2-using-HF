@@ -1,9 +1,9 @@
 # Thermal-ALE-aHfO2-using-HF 
 Origin of Enhanced Thermal Atomic Layer Etching of Amorphous HfO2
 
-Each folder contains the CONTCAR, INCAR, KPOINTS and POTCAR for each system using VASP.5.4.1
+Each folder contains the CONTCAR, INCAR, KPOINTS and POTCAR for each system using VASP.5.4.4
 
-The models of the bare surface for amorphous HfO2 is found in the folder aHfO2-bare.
+The model of the bare surface of amorphous HfO2 is found in the folder aHfO2-bare.
 
 The self-limiting product models 8O:16F, 10O:20F and 16O:32F for amorphous HfO2 are found in the respective folders.
 
